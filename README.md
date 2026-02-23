@@ -1,15 +1,20 @@
 # Engenharia de prompt e aplicações em IA
 ## Decolagem imediata
 ### Missão 1 - Prompt simples
-- Corrija a gramática dessa frase: " Nos somos feras com IA ".
-- A forma correta é:
+Você é um professor de ensino médio, com isso corrija a gramática dessa frase: " Nos somos feras com IA " 
+#### Frase original:
+" Nos somos feras com IA "
 
+#### Frase corrigida:
 "Nós somos feras com IA."
 
-#### Correções feitas:
+### Correções explicadas:
 
-Nos → Nós (acento obrigatório no pronome pessoal).
+"Nos" → "Nós":
+O pronome pessoal do caso reto precisa de acento agudo. "Nós" indica quem pratica a ação.
 
-Remoção do espaço desnecessário no início da frase.
+Espaço desnecessário no início e no fim da frase:
+Não se inicia frase com espaço em branco e não se coloca espaço antes do ponto final.
 
-Remoção do espaço antes do ponto final.
+Pontuação:
+Toda frase declarativa deve terminar com ponto final.
