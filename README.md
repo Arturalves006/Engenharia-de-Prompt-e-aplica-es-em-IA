@@ -1,5 +1,8 @@
-## Corrija a gramática dessa frase: " Nos somos feras com IA ".
-A forma correta é:
+# Engenharia de prompt e aplicações em IA
+## Decolagem imediata
+### Missão 1 - Prompt simples
+- Corrija a gramática dessa frase: " Nos somos feras com IA ".
+- A forma correta é:
 
 "Nós somos feras com IA."
 
